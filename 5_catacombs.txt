@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-17T13:46:42-04:00
+
+====== 5 catacombs ======
+Created Tuesday 17 March 2020
+
+__The stairs descend into and end in standing water, waist deep and freezing cold.__
+__Just beyond an archway is a wide hall that extends into the darkness.__
+__Lining the walls are niches carved into the bare rock.__
+__Each niche holds a moldering old skeleton in rusted armor.__
+__On either wall is carved more words in the ancient script__, "EVEN IN DEATH I SERVE THE WAR MOTHER."
+
+This room is 35 feet long and 15 feet wide.
+
+When the characters have nearly reached midpoint in this room, the skeletons will start to twitch and move. 
+Until that point they are inert and do not respond to any stimulus. 
+The skeletons slide out of their narrow burial holes and attack.
+
+The water causes this room to be difficult terrain, and it also makes it harder to notice the pit trap door in the center of the room, requiring a DC 15 Wisdom (Perception) check.
+DC10 dex save or take 2d6 damage from the fall.
+The pit is already filled deep with water and water begins falling to the pit from the now open trap door. Use swimming rules.
+There is another skeleton armed with a wand of magic missle in the pit.
+Trap door closes up again slowly after 3 rounds
+
+**Loot**
+Each skeleton has a mithryl circlet on its head. Two mythril beads hang down on either side, like fangs. (10GP per circlet)
+

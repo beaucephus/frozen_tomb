@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-17T15:17:58-04:00
+
+====== 6 archer's repose ======
+Created Tuesday 17 March 2020
+
+__This broad chamber has a tall ceiling decorated with mica.__
+__Propped up in niches high on either side are skeletons holding bows.__
+__A staircase leads up to a closed stone door, over which are carved the words,__ "MY ARROWS FOR THE WAR MOTHER."
+__The floor dips down a little, and now the water is waist-deep, slowing you down quite a bit.__
+__The water seems to be coming from under the door at the top of the stairs, forming a cascade down the steps.__
+
+One round after the characters enter, the skeletons animate and attack.
+They carry old but decent bows with ten arrows each.
+
+The water is considered rough terrain.
+The water makes the stairs very slippery, so moving on them requires a DC 10 Dexterity (Acrobatics) to avoid falling prone.
+
+Optional: For an additional challenge, an ochre jelly is floating in the water, and it will move in to attack any living enemies
+
+**Treasure**: Each archer has a gem on its helmet that can be popped off and sold for 20 gp

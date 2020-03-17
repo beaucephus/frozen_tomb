@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-17T16:02:49-04:00
+
+====== 9 lair of barioth the ice tusk wyvern ======
+Created Tuesday 17 March 2020
+
+__This huge cavern extends eerily into darkness, even for those with eyes well-adjusted to the darkness. __
+__The air is extremely cold but also humid. __
+__Sword-like icicles dangle menacingly from above. __
+__The floor beneath you is a frozen lake of some substantial depth, and buried under the surface, barely visible, are bodies entombed forever in the ice.__
+
+This huge cavern is home to a [[Barioth]]
+
+Barioth's lair has another exit which is blocked by a 10-foot-thick column of ice.
+The glimmering glow of bright sunlight filters in through the ice wall.
+The ice wall is relatively smooth and unmottled by snow and evaporation divets compared with the rest of the cavern.
+Any player who inspects the wall further can determine that the ice was recently "made"
+
+The wall is actually a frozen waterfall that leads out to a half-frozen lake in the Valley of Khedrun.

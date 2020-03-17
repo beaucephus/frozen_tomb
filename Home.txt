@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-17T13:03:22-04:00
+
+====== Home ======
+Created Tuesday 17 March 2020
+
+This scenario can take place in any mountain pass.
+
+__The locals warned you about this pass, but when you first headed up the mountain the weather was quite cooperative.__
+__About a day ago you left the timber line, sticking to the marked trail as it threaded between peaks, always leading you up and up, toward the saddleback between two mighty mountains.__
+__Near the center of the pass the weather took an unexpected turn, and soon you were caught in a terrible blizzard.__
+__Heavy winds and driving snow created whiteout conditions.__
+__Now, with the temperature dropping dangerously, you must find shelter before night falls.__
+__Fortunately, you spot a dark hollow in the side of the cliffs, and as you grow closer you see a cave mouth that will be perfect for staying dry in the storm.__
+
+If the characters are reluctant to enter, or wish to exit the dungeon during the adventure, impress upon them the extreme and perilous conditions. 
+Characters exposed to the cold must make DC 10 Constitution saves at the end of each hour. 
+Characters without cold weather gear, such as thick coats, gloves, and so on, automatically fail this save. 
+On a failed saving throw, a character gains a level of exhaustion (see Basic Rules).
+Visibility is reduced to 50 feet, and creatures suffer disadvantage on saves to avoid becoming surprised.
+
+===== General Features =====
+The air inside the tomb is cold and humid.
+The walls are slippery ice-coated rock and stone.
+
+===== Tomb Locations =====
+[[1 overhang]]
+[[2 hall of heroes]]
+[[3 false crypt]]
+[[4 secret stairwell]]
+[[5 catacombs]]
+[[6 archer's repose]]
+[[7 trapped door]]
+[[8 crypt of the war mother]]
+[[9 lair of barioth the ice tusk wyvern]]

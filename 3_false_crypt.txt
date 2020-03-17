@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-17T13:28:24-04:00
+
+====== 3 false crypt ======
+Created Tuesday 17 March 2020
+
+__At the end of the hallway is a heavy stone door which has been shoved open to reveal a large chamber with a vaulted ceiling. __
+__Four intricately-carved pillars stand just a few feet inside each corner. __
+__On the opposite wall is a stone sarcophagus at the top of a low dais, its lid pried off. __
+__On the wall above it is carved more writings. __ "HEREIN LIES YURVAN, SQUIRE OF THE WAR MOTHER. 1344 - 1357."
+__In the northeast corner is a huge mound of grasses, fur, spoor and bones. __
+__The place reeks.__
+
+An owlbear lives here. It has recently been heavily wounded by something much larger than it.
+If it hears the party coming, it will attack from hiding as soon as someone enters the room.
+
+The sarcophagus contains an extremely short human skeleton with a club foot in tattered old clothing.
+There is nothing of value.
+
+The pillars are carved into the visage of a woman gazing at the floor in the center of the room.
+
+Any player who suspects something is amiss gains advantage on checks to investigate the room further.
+
+There is a secret door in the floor in the center of the room.
+
+**Loot**
+The owlbear was hoarding a Potion of Greater Healing.
+

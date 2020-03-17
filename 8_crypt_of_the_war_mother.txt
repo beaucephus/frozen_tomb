@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-17T18:47:01-04:00
+
+====== 8 crypt of the war mother ======
+Created Tuesday 17 March 2020
+
+__This chamber mirrors the one at the beginning of this barrow complex -- it features a high ceiling, four pillars, and a raised dais upon which rests a sarcophagus.__
+__The decorations are much more lavish, however, and along the east and west walls are piles of riches: cups, tapestries, boxes, furniture, weapons and armor.__
+__A stream of water pours into the room through cracks in the walls, covering the floor with a thin layer of water.__
+__Above the sarcophagus is carved more words in the ancient script__, “HERE RESTS TAENYA KELSAMUTH, WAR MOTHER OF THE VALLEY, DAUGHTER OF RIRAN KELSAMUTH, LORD OF KHELDRUN. DISTURB NOT HER ETERNAL REST OR SUFFER THE MIGHT OF THE ICE TUSK."
+__The air in here seems much colder than in the rest of the barrow, and you begin to grow aware of a dark presence in the room with you.__
+
+The body of Taenya is guarded by a wight, the cursed remains of a wizard named Kaloc who served her father, the king, during his reign. 
+When Taenya was killed in battle, the king believed it was Kaloc's negligence that allowed her to fall and he consulted with dark forces to bring the former advisor back into unlife to guard his daughter for eternity.
+Kaloc can cast Shield, Fear, Fire Shield(cold damage)
+Kaloc is assisted by some zombies.
+
+**Loot**
+__The piles of riches on display in this room, though untouched by looters, have none-the-less been destroyed by the slow passage of time, rust, and water damage.__
+Hidden inside Taenya's closed and untrapped sarcophagus
+  +1 longsword
+  scroll of Bless 
+  bejeweled silver dagger shaped like a cat's fang (50gp)
+
+**Developments**
+If the players take the dagger, the floor immediately gives out and the party falls with the contents of the room through a cave collapse into a huge cavern below.

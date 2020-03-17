@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-17T15:22:04-04:00
+
+====== 7 trapped door ======
+Created Tuesday 17 March 2020
+
+__The hallway ends at a heavy stone door covered in intricate knot patterns.__
+__In the center of the door is the image of a brutal predatory animal skull with gaping holes for eye sockets.__
+__Under it's gaping jaw is carved more words in the ancient script__, "THE ICE TUSK SHALL HAVE ITS FILL."
+__A thin trickle of water comes from under the door.__
+
+The door is locked and trapped.
+The lock can be bypassed with a DC 20 Dexterity (Thieves' Tools) attempt, but failing will trigger the trap, a heavy stone block that drops from the ceiling 10 feet back, totally sealing the hallway and doing 6d6 damage to anyone who fails a DC 10 Dexterity saving throw.
+The block is too heavy to lift.
+Anyone on the other side is effectively trapped in the crypt forever.
+This trap can be avoided by slipping one gold coin into each eye socket.
+The coins drop down into the depths of the door and are lost, landing on a pressure plate which will cause the door to open.
+It is weighted to slowly close once more, however, locking once again in 10 rounds, though the door can be easily propped open.
+If the door closes, there is no way to open it from the inside.
+If the block trap falls, the area will begin to slowly fill with water coming from area 8, though it will take days to completely fill, and by then the storm will likely have abate
