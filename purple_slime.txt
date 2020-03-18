@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-18T15:01:40-04:00
+
+====== purple slime ======
+Created Wednesday 18 March 2020
+
+https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/oozes/purple-slime/
+
+{{..\purple_slime.png}}
+
+
+

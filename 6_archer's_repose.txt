@@ -17,6 +17,6 @@ They carry old but decent bows with ten arrows each.
 The water is considered rough terrain.
 The water makes the stairs very slippery, so moving on them requires a DC 10 Dexterity (Acrobatics) to avoid falling prone.
 
-Optional: For an additional challenge, an ochre jelly is floating in the water, and it will move in to attack any living enemies
+Optional: For an additional challenge, a [[purple slime]] is floating in the water, and it will move in to attack any living enemies
 
 **Treasure**: Each archer has a gem on its helmet that can be popped off and sold for 20 gp
